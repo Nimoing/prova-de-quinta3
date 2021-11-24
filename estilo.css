@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+body.lugares{
+    font-family: "arial";
+    font-size: large;
+    background-color: rgb(172, 59, 59);
+    padding-left: 130px;/*ele cria espaço da bora<*/
+}
+
+body.lugaresfilme{
+    font-family: "arial";
+    font-size: large;
+    background-color: rgb(8, 6, 15);
+    padding-left: 130px;/*ele cria espaço da bora<*/
+}
+
+/*titulo */
+h1{
+    background-color: rgb(241, 205, 87);
+    padding: 12px;/*pra as 4 diferção*/
+    margin-bottom: 0px;/*margin de baixo*/ 
+    /*borda*/
+}
+h{
+    color: green;
+}
+label.formata{
+    color: rgb(224, 86, 21);
+}
+
+h3{
+    font-family: "arial";
+    font-size: large;
+    color: rgb(35, 21, 224);
+}
+h4{
+    font-family: "arial";
+    font-size: 50px;
+    color: rgba(224, 35, 21, 0.788);
+}
+
+/*titulo */
+h2.formato{
+    font-family: "arial";
+    font-size: large;
+    background-color: rgb(56, 24, 173);
+    padding: 0px;/*pra as 4 diferção*/
+    margin-bottom: 0px;/*margin de baixo*/  
+    /*borda*/
+}
+
+ul.formato{
+    font-family: "arial";
+    font-size: large;
+    background-color: rgb(223, 224, 221);
+    padding-left: px;/*ele cria espaço da bora<*/
+    padding: 50px;/*pra as 4 diferção*/
+    margin-bottom: 0px;/*margin de baixo*/
+    
+    /*borda*/
+}
+
+
+
+a:link, a:visited{
+    text-decoration: none;
+    color: rgb(204, 202, 57);
+}
+
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+
